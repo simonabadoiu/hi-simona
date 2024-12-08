@@ -1,0 +1,28 @@
+{
+  "name": "hi-simona",
+  "version": "1.0.0",
+  "description": "cdnjs package",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simonabadoiu/hi-simona.git"
+  },
+  "keywords": [
+    "simona",
+    "hi",
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonabadoiu/hi-simona/issues"
+  },
+  "homepage": "https://github.com/simonabadoiu/hi-simona#readme"
+}
